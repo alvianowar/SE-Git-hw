@@ -1,1 +1,1 @@
-print("Hello, World! Greetings from branch B")
+print("Hello, World! Greetings from branch A and branch B")
